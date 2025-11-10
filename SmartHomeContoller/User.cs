@@ -21,6 +21,7 @@ namespace SmartHomeContoller
         {
             get { return UserId; }
             set { UserId = value; }
+
         }
 
         public string UserName
