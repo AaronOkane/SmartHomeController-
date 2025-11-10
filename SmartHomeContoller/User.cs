@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SmartHomeContoller
 {
-    internal class User
+    internal class User 
     {
     }
 }
